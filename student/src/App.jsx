@@ -159,7 +159,7 @@ import Jobinputs from '../src/components/Joblist/Applicant.jsx';
 
 import Dashboard from './components/Dashboard/Dashrecruiter';
 import Dashjobseeker from './components/Dashboard/Dashjobseeker';
-import Parser from "./components/parser/parser";
+import Parser from "./components/Parser/Parser.jsx";
 import JobInsightsDashboard from "./components/JobInsightsDashboard/JobInsightsDashboard";
 import Courses from "./components/Courses/Courses";
 import Meet from "./components/Meet";
